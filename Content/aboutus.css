@@ -1,0 +1,102 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: black;
+}
+
+header {
+    padding: 50px 0;
+}
+
+h1.span {
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive !important;
+    font-weight: 700;
+    font-size: 38px;
+    color: #FFC0CB;
+}
+
+.menu ul li a {
+}
+
+    .menu ul li a:hover {
+        color: #FFC0CB !important;
+    }
+
+.menu ul li:first-child a {
+    padding-left: 0 !important;
+}
+
+i {
+    color: #FFC0CB;
+}
+
+
+/*origin started*/
+.origin {
+    background-color: #F5F5F5;
+}
+
+.origin-desc {
+    top: 80px;
+    background-color: white;
+    border: 1px solid transparent;
+    padding: 11% 15%;
+}
+
+    .origin-desc span {
+    }
+
+    .origin-desc h1 {
+        margin: 30px 0;
+    }
+
+    .origin-desc p {
+        line-height: 1.5rem;
+        color: rgba(0,0,0,0.5);
+    }
+
+.top-50 {
+    top: 10% !important;
+}
+
+.start-50 {
+    left: 40% !important;
+}
+/*origin end*/
+
+.policies {
+    margin: 50px 0;
+    padding: 50px 0;
+    background-color: #FFDAB9;
+}
+
+.policiesDesc {
+    margin-top: 8%;
+}
+
+    .policiesDesc h1 {
+        font-size: 57px;
+        padding: 0 0 4% 0;
+    }
+
+    .policiesDesc p {
+        padding-right: 8%;
+        line-height: 1.5rem;
+        color: rgba(0,0,0,0.5);
+    }
+
+.policies-image img {
+    
+    height: auto;
+    width: 420px;
+}
+
+.footerp p {
+    color: black;
+    width: 20%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0;
+}
